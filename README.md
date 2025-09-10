@@ -153,9 +153,8 @@ book_id (integer) — The unique ID of the book
 ```
 GET /api/books/1
 ```
-```
 Response:
-
+```
 {
     "id": 1,
     "title": "Ulysses",
